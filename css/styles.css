@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-image: url(../assets/origen_fondo.png);
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: 'Gantari', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    
+}
+
+p{
+    text-align: center;
+    font-family: 'Gantari', sans-serif;    
+    font-size: 20px;
+    color: #fff;
+}
